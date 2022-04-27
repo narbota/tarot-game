@@ -34,5 +34,17 @@ export default [
     card: "The fool",
     image:
       "https://upload.wikimedia.org/wikipedia/en/8/8d/RWS_Tarot_05_Hierophant.jpg"
+  },
+  {
+    id: 6,
+    card: "The lovers",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/TheLovers.jpg"
+  },
+    {
+    id: 7,
+    card: "The chariot",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/9/9b/RWS_Tarot_07_Chariot.jpg"
   }
 ];
