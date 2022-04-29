@@ -46,5 +46,42 @@ export default [
     card: "The chariot",
     image:
       "https://upload.wikimedia.org/wikipedia/commons/9/9b/RWS_Tarot_07_Chariot.jpg"
+  },
+    {
+    id: 8,
+    card: "Strength",
+    image:
+      "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:RWS_Tarot_08_Strength.jpg"
+  },
+    {
+    id: 9,
+    card: "The Hermit",
+    image:
+      "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:RWS_Tarot_09_Hermit.jpg"
+  },
+    {
+    id: 10,
+    card: "Wheel of Fortune",
+    image:
+      "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:RWS_Tarot_10_Wheel_of_Fortune.jpg"
+  }
+  ,
+    {
+    id: 11,
+    card: "Justice",
+    image:
+      "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:RWS_Tarot_11_Justice.jpg"
+  },
+    {
+    id: 12,
+    card: "The Hanged Man",
+    image:
+      "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:RWS_Tarot_12_Hanged_Man.jpg"
+  },
+    {
+    id: 13,
+    card: "Death",
+    image:
+      "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:RWS_Tarot_13_Death.jpg"
   }
 ];
