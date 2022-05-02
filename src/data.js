@@ -84,4 +84,11 @@ export default [
     image:
       "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:RWS_Tarot_13_Death.jpg"
   }
+  ,
+    {
+    id: 14,
+    card: "Temperance",
+    image:
+      "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:RWS_Tarot_14_Temperance.jpg"
+  }
 ];
