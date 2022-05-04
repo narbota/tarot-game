@@ -90,5 +90,11 @@ export default [
     card: "Temperance",
     image:
       "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:RWS_Tarot_14_Temperance.jpg"
+  }  ,
+    {
+    id: 15,
+    card: "The Devil",
+    image:
+      "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:RWS_Tarot_15_Devil.jpg"
   }
 ];
