@@ -106,5 +106,12 @@ export default [
     card: "The Devil",
     image:
       "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:RWS_Tarot_15_Devil.jpg"
-    }
+    },
+     
+   {
+    id: 16,
+    card: "The Tower",
+    image:
+      "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:RWS_Tarot_16_Tower.jpg"
+   }
 ];
