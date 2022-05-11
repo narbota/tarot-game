@@ -113,5 +113,18 @@ export default [
     card: "The Tower",
     image:
       "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:RWS_Tarot_16_Tower.jpg"
-   }
+   },
+  
+   {
+    id: 17,
+    card: "The Star",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_17_Star.jpg" 
+    },
+  
+    { 
+      id: 18,
+      card: "The Moon",
+      image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/RWS_Tarot_18_Moon.jpg"
+    }
 ];
