@@ -126,5 +126,11 @@ export default [
       id: 18,
       card: "The Moon",
       image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/RWS_Tarot_18_Moon.jpg"
+    },
+  
+     { 
+      id: 19,
+      card: "The Sun",
+      image: "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:RWS_Tarot_19_Sun.jpg"
     }
 ];
