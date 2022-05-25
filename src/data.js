@@ -132,5 +132,17 @@ export default [
       id: 19,
       card: "The Sun",
       image: "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:RWS_Tarot_19_Sun.jpg"
+    },
+  
+    { 
+      id: 20,
+      card: "The Judgement",
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RWS_Tarot_20_Judgement.jpg/220px-RWS_Tarot_20_Judgement.jpg"
+    },
+  
+     { 
+      id: 21,
+      card: "The World",
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/RWS_Tarot_21_World.jpg/170px-RWS_Tarot_21_World.jpg"
     }
 ];
