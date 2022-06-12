@@ -144,5 +144,11 @@ export default [
       id: 21,
       card: "The World",
       image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/RWS_Tarot_21_World.jpg/170px-RWS_Tarot_21_World.jpg"
+    },
+   { 
+      id: 22,
+      card: "Ace of Wands",
+      image: "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:Wands01.jpg"
     }
+  
 ];
