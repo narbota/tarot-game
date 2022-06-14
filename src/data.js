@@ -154,5 +154,5 @@ export default [
     id: 23, 
     card: "2 of Wands",
     image: "https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck#/media/File:Wands02.jpg"
-  
+  },
 ];
